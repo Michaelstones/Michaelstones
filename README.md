@@ -10,7 +10,7 @@
 - 📱 Working across **React Native** and **Dart/Flutter** for mobile
 - 💬 Ask me about **NestJS, Next.js, FastAPI, agentic RAG architectures**
 - 📫 Reach me at **agbajemichae41@gmail.com**
-- 🔗 More of my work: [portfolio]https://michaelstones.github.io/Michael-Agbaje/) · [LinkedIn](https://www.linkedin.com/in/michael-agbaje-155a43b6/)
+- 🔗 More of my work: [portfolio]https://michaelstones.github.io/Michael-Agbaje/) · [LinkedIn](https://www.linkedin.com/in/michael-agbajes)
 
 ### Languages &amp; tools
 
