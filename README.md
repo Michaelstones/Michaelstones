@@ -33,11 +33,6 @@
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="36" height="36"/></a>
 </p>
 
-### GitHub activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/f2a93d/Michaelstones" alt="michaelstones contribution graph" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Michaelstones?label=Followers&style=flat&color=f2a93d" alt="followers" />
