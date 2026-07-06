@@ -41,5 +41,5 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/michaelshow99" target="_blank"><img src="https://img.shields.io/twitter/follow/michaelshow99?logo=twitter&style=flat" alt="twitter follow" /></a>
+  <a href="https://x.com/michael25890433" target="_blank"><img src="https://img.shields.io/x/follow/michaelshow99?logo=twitter&style=flat" alt="X follow" /></a>
 </p>
