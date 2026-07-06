@@ -33,13 +33,13 @@
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="36" height="36"/></a>
 </p>
 
-### GitHub stats
+### GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelstones&show_icons=true&locale=en&hide_border=true&title_color=f2a93d&icon_color=f2a93d" alt="michaelstones stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelstones&layout=compact&hide_border=true&title_color=f2a93d" alt="top languages" width="49%" />
+  <img src="https://ghchart.rshah.org/f2a93d/Michaelstones" alt="michaelstones contribution graph" />
 </p>
 
 <p align="center">
-  <a href="https://x.com/michael25890433" target="_blank"><img src="https://img.shields.io/x/follow/michaelshow99?logo=twitter&style=flat" alt="X follow" /></a>
+  <img src="https://img.shields.io/github/followers/Michaelstones?label=Followers&style=flat&color=f2a93d" alt="followers" />
+  <a href="https://x.com/michael25890433" target="_blank"><img src="https://img.shields.io/badge/X-@michael25890433-000000?logo=x&style=flat" alt="X" /></a>
 </p>
